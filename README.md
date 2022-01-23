@@ -19,7 +19,7 @@ You can use npm the to run app.
 - First you need to create a .env file and add your own meaning clould api key. 
 - And then run the following commands.
 ```bash
-npm i
+npm install
 npm run test
 npm run build-prod
 npm run start
