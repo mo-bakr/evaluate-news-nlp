@@ -23,6 +23,7 @@ npm i
 npm run test
 npm run build-prod
 npm run start
+npm run build-dev
 ```
 
 ## Technology
